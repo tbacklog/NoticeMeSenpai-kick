@@ -1,5 +1,8 @@
 # NoticeMeSenpai
 Simple javaScript for adding notification sound to kick.com chat when getting new message <br>
+Works in https://kick.com/dashboard/stream <br>
+if not reload page<br>
+
 If you have any advice suggestion feel free to give them
 
 How to use
